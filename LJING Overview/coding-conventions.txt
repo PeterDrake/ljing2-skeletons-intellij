@@ -1,0 +1,19 @@
+All of the Learn Java in N Games code attempts to follow standard Java coding
+conventions and practices. Good sources include:
+
+Bloch, Effective Java
+Christensen, Flexible, Reliable Software: Using Patterns and Agile Development
+Vermeulen et al., The Elements of Java Style.
+
+Some liberties are taken, especially in early programs, to improve clarity and
+simplicity at the expense of robustness and generality.
+
+The following conventions are specific to LJING:
+
+The current player is stored in a variable or instance variable called
+currentPlayer.
+
+All drawing is done by a single method draw (or by methods called only from
+draw). Draw begins with StdDraw.clear() and ends with StdDraw.show(). The run
+method starts with StdDraw.enableDoubleBuffering().
+
