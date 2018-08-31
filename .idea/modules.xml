@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anagrams/Anagrams.iml" filepath="$PROJECT_DIR$/Anagrams/Anagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Asteroid Rally/Asteroid Rally.iml" filepath="$PROJECT_DIR$/Asteroid Rally/Asteroid Rally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beetle/Beetle.iml" filepath="$PROJECT_DIR$/Beetle/Beetle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Domineering/Domineering.iml" filepath="$PROJECT_DIR$/Domineering/Domineering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Focus/Focus.iml" filepath="$PROJECT_DIR$/Focus/Focus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Go/Go.iml" filepath="$PROJECT_DIR$/Go/Go.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hex/Hex.iml" filepath="$PROJECT_DIR$/Hex/Hex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/High Scores I/High Scores I.iml" filepath="$PROJECT_DIR$/High Scores I/High Scores I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/High Scores II/High Scores II.iml" filepath="$PROJECT_DIR$/High Scores II/High Scores II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LJING Overview/LJING Overview.iml" filepath="$PROJECT_DIR$/LJING Overview/LJING Overview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maze/Maze.iml" filepath="$PROJECT_DIR$/Maze/Maze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pig/Pig.iml" filepath="$PROJECT_DIR$/Pig/Pig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poker Dice/Poker Dice.iml" filepath="$PROJECT_DIR$/Poker Dice/Poker Dice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pong/Pong.iml" filepath="$PROJECT_DIR$/Pong/Pong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questions/Questions.iml" filepath="$PROJECT_DIR$/Questions/Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Railyard/Railyard.iml" filepath="$PROJECT_DIR$/Railyard/Railyard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shut the Box/Shut the Box.iml" filepath="$PROJECT_DIR$/Shut the Box/Shut the Box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snowman/Snowman.iml" filepath="$PROJECT_DIR$/Snowman/Snowman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text Adventure/Text Adventure.iml" filepath="$PROJECT_DIR$/Text Adventure/Text Adventure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tic-Tac-Toe/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/Tic-Tac-Toe/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Towers of Hanoi/Towers of Hanoi.iml" filepath="$PROJECT_DIR$/Towers of Hanoi/Towers of Hanoi.iml" />
+    </modules>
+  </component>
+</project>
