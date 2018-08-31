@@ -33,7 +33,6 @@ public class PongModelTest {
 		int[] scores = model.getScores();
 		assertEquals(0, scores[0]);
 		assertEquals(0, scores[1]);
-		
 	}
 
 	@Test
